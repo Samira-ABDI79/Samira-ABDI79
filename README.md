@@ -1,38 +1,36 @@
-
-
-  <h1 align="center">Hi there, I'm Samira</h1>
+  <h1 align="center">Hi there, I'm Smira ABDI</h1>
     <h3 align="center">A Front-end developer from Iran</h3>
     <p align="left">
       <img
-        src="https://komarev.com/ghpvc/?username=dev-aly3n&label=Profile%20views&color=0e75b6&style=flat"
-        alt="dev-aly3n"
+        src="https://komarev.com/ghpvc/?username=Samira-ABDI79&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Samira-ABDI79"
       />
     </p>
     <p align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy"
         ><img
-          src="https://github-profile-trophy.vercel.app/?username=dev-aly3n&theme=algolia"
-          alt="dev-aly3n"
+          src="https://github-profile-trophy.vercel.app/?username=Samira-ABDI79&theme=algolia"
+          alt="Samira-ABDI79"
       /></a>
     </p>
     <p>
-    - 🔭 currently working on <a href="https://github.com/dev-aly3n/isu-portfolio">Isu-gate</a>
+    - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/isu-portfolio">Isu-gate</a>
     </p>
     <p>
     - 🌱 currently learning <strong>Jest & React Testing Library</strong>
     </p>
     <p>
-      -🤝 looking for help with <a href="https://github.com/Samira-ABDI79">Wikianime</a>
+      -🤝 looking for help with <a href="https://github.com/Samira-ABDI79/wikianime">Wikianime</a>
     </p>
     <p>
-     - 
+     - 📜<strong>My Personal Website</strong>: <a href="https://aly3n.dev">Aly3n.dev</a>
     </p>
     <h3 align="center">Connect with me</h3>
     <p align="center">
-      <a href="https://www.linkedin.com/in/samira-abdi-/" target="_blank"
+      <a href="https://linkedin.com/in/aly-mohamadi" target="_blank"
         ><img
           align="center"
-          src="https://www.linkedin.com/in/samira-abdi-/style=for-the-badge&logo=linkedin&logoColor=white"
+          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="aly-mohamadi"
       /></a>
       <a
@@ -193,26 +191,26 @@
     >
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=dev-aly3n&show_icons=true&theme=nightowl&locale=en"
-        alt="dev-aly3n"
+        src="https://github-readme-stats.vercel.app/api?username=Samira-ABDI79&show_icons=true&theme=nightowl&locale=en"
+        alt="Samira-ABDI79"
         width="400"
       />
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aly3n&theme=nightowl"
-        alt="dev-aly3n"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Samira-ABDI79&theme=nightowl"
+        alt="Samira-ABDI79"
         width="400"
       />
       <img
         align="center"
           src="https://wakatime.com/share/@aly3n/d6968611-fd97-4c0d-8ba1-1fd7e69ba510.svg"
-        alt="dev-aly3n"
+        alt="Samira-ABDI79"
         width="400"
       />
       <img
         align="center"
           src="https://wakatime.com/share/@aly3n/28c1bd08-d655-4249-a17e-a985ff32f4d9.svg"
-        alt="dev-aly3n"
+        alt="Samira-ABDI79"
         width="400"
       />
     </div>
