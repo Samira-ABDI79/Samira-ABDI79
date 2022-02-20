@@ -24,7 +24,7 @@
     </p>
     <h3 align="center">Connect with me</h3>
     <p align="center">
-      <a href="https://linkedin.com/in/aly-mohamadi" target="_blank"
+      <a href="https://www.linkedin.com/in/samira-abdi-/" target="_blank"
         ><img
           align="center"
           src="https://www.linkedin.com/in/samira-abdi-/?style=for-the-badge&logo=linkedin&logoColor=white"
