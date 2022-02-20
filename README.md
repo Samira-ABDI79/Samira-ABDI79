@@ -169,7 +169,12 @@
           alt="framer"
         />
       </a>
-    
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://img.shields.io/badge/bootstrap-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
+          alt="bootstrap"
+        />
+      </a>
     </p>
         <h3 align="center">Stats</h3>
     <div
