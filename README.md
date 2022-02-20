@@ -1,5 +1,5 @@
-  <h1 align="center">Hi there, I'm Smira ABDI</h1>
-    <h3 align="center">A Front-end developer from Iran</h3>
+  <h1 align="center">hello world I'm Smira ABDI</h1>
+    <h3 align="center">A JavaScript developer from Iran</h3>
     <p align="left">
       <img
         src="https://komarev.com/ghpvc/?username=Samira-ABDI79&label=Profile%20views&color=0e75b6&style=flat"
