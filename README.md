@@ -19,7 +19,9 @@
     <p>
     - 🌱 currently learning <strong>Jest & React Testing Library</strong>
     </p>
-    
+    <p>
+    - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/javaScript-Delino">javaScript-Delino </a>
+    </p>
     <h3 align="center">Connect with me</h3>
     <p align="center">
       <a href="https://linkedin.com/in/aly-mohamadi" target="_blank"
