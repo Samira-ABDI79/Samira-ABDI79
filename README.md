@@ -27,8 +27,8 @@
       <a href="https://linkedin.com/in/aly-mohamadi" target="_blank"
         ><img
           align="center"
-          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-          alt="aly-mohamadi"
+          src="https://www.linkedin.com/in/samira-abdi-/?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="samira abdi"
       /></a>
       <a
         href="https://wa.me/989152539070?text=Hello%20Aly!%20I%27ve%20reached%20you%20through%20your%20GitHub."
