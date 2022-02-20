@@ -169,12 +169,7 @@
           alt="framer"
         />
       </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
-          alt="python"
-        />
-      </a>
+    
     </p>
         <h3 align="center">Stats</h3>
     <div
