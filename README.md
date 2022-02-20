@@ -31,14 +31,14 @@
           alt="samira abdi"
       /></a>
       <a
-        href="https://wa.me/989339183341?text=Hello%20Aly!%20I%27ve%20reached%20you%20through%20your%20GitHub."
+        href="https://wa.me/989339183341?text=Hello%20samira!%20I%27ve%20reached%20you%20through%20your%20GitHub."
         target="_blank"
         ><img
           align="center"
           src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
           alt="samira-abdi"
       /></a>
-      <a href="https://t.me/aly3n" target="_blank"
+      <a href="https://t.me/Samira-ABDI79" target="_blank"
         ><img
           align="center"
           src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
