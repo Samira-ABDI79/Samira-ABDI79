@@ -17,7 +17,7 @@
     - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/Nodejs_sandbox">Nodejs_sandbox</a>
     </p>
     <p>
-    - 🌱 currently learning <strong>Jest & React Testing Library</strong>
+    - 🌱 currently learning <strong>jQuery</strong>
     </p>
     <p>
     - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/javaScript-Delino">javaScript-Delino </a>
@@ -31,18 +31,18 @@
           alt="samira abdi"
       /></a>
       <a
-        href="https://wa.me/989152539070?text=Hello%20Aly!%20I%27ve%20reached%20you%20through%20your%20GitHub."
+        href="https://wa.me/989339183341?text=Hello%20Aly!%20I%27ve%20reached%20you%20through%20your%20GitHub."
         target="_blank"
         ><img
           align="center"
           src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-          alt="aly-mohamadi"
+          alt="samira-abdi"
       /></a>
       <a href="https://t.me/aly3n" target="_blank"
         ><img
           align="center"
           src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-          alt="aly-mohamadi"
+          alt="samia-abdi"
       /></a>
     </p>
     <h3 align="center">Languages and Tools</h3>
