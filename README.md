@@ -15,7 +15,7 @@
       /></a>
     </p>
     <p>
-    - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/Nodejs_sandbox">Nodejs_sandbox</a>
+    - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/Learn-html-javaScript">Learn-html-javaScript</a>
     </p>
     <p>
     - 🌱 currently learning <strong>jQuery</strong>
