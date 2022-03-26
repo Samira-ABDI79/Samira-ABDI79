@@ -1,18 +1,5 @@
   <h1 align="center">hello world I'm Smira ABDI</h1>
     <h3 align="center">A JavaScript developer from Iran</h3><br />
-    <p align="left">
-      <img
-        src="https://komarev.com/ghpvc/?username=Samira-ABDI79&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Samira-ABDI79"
-      />
-    </p>
-    <p align="center">
-      <a href="https://github.com/Samira-ABDI79"
-        ><img
-          src="https://github-profile-trophy.vercel.app/?username=Samira-ABDI79&theme=algolia"
-          alt="Samira-ABDI79"
-      /></a>
-    </p>
     <p>
     - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/Learn-html-javaScript">Learn-html-javaScript</a>
     </p>
