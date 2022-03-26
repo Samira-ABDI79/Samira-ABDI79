@@ -163,38 +163,3 @@
         />
       </a>
     </p>
-        <h3 align="center">Stats</h3>
-    <div
-      style="
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-        align-items: center;
-      "
-    >
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Samira-ABDI79&show_icons=true&theme=nightowl&locale=en"
-        alt="Samira-ABDI79"
-        width="400"
-      />
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Samira-ABDI79&theme=nightowl"
-        alt="Samira-ABDI79"
-        width="400"
-      />
-      <img
-        align="center"
-          src="https://wakatime.com/share/@aly3n/d6968611-fd97-4c0d-8ba1-1fd7e69ba510.svg"
-        alt="Samira-ABDI79"
-        width="400"
-      />
-      <img
-        align="center"
-          src="https://wakatime.com/share/@aly3n/28c1bd08-d655-4249-a17e-a985ff32f4d9.svg"
-        alt="Samira-ABDI79"
-        width="400"
-      />
-    </div>
