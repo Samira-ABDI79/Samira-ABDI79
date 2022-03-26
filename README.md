@@ -6,9 +6,6 @@
     <p>
     - 🌱 currently learning <strong>jQuery</strong>
     </p>
-    <p>
-    - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/javaScript-Delino">javaScript-Delino </a>
-    </p>
     <h3 align="center">Connect with me</h3>
     <p align="center">
       <a href="https://www.linkedin.com/in/samira-abdi-/" target="_blank"
