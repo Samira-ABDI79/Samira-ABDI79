@@ -1,6 +1,5 @@
   <h1 align="center">hello world I'm Smira ABDI</h1>
     <h3 align="center">A JavaScript developer from Iran</h3><br />
- <img src="https://github.com/Samira-ABDI79/Samira-ABDI79/blob/main/image%20(10).jpg" width="30%" height="300px" />
     <p align="left">
       <img
         src="https://komarev.com/ghpvc/?username=Samira-ABDI79&label=Profile%20views&color=0e75b6&style=flat"
