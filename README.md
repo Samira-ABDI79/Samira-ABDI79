@@ -10,6 +10,7 @@
     <br />
     <br />
     <h3>About my feelings when coding</h3>
+    <img src="https://img.shields.io/badge/I%20will%20fly-black?style=for-the-badge&logo=framer&logoColor=pink" />
     <p>When I run my code with nodejs, it 's as if I've conquered a peak.</p>  <br />
     <p>When I do beautiful work with css, it 's as if I're flying</p>  <br />
     <p>And when I learn programming, it 's like listening to the piano.</p>  <br />
