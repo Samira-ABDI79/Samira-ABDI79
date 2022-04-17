@@ -6,6 +6,13 @@
     <p>
     - 🌱 currently learning <strong>SEO</strong>
     </p>
+    <br />
+    <br />
+    <br />
+    <h3>About my feelings when coding</h3>
+    <p>When I run my code with nodejs, it 's as if I've conquered a peak.</p>  <br />
+    <p>When I do beautiful work with css, it 's as if I're flying</p>  <br />
+    <p>And when I learn programming, it 's like listening to the piano.</p>  <br />
     <h3 align="center">Connect with me</h3>
     <p align="center">
       <a href="https://www.linkedin.com/in/samira-abdi-/" target="_blank"
