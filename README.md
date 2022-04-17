@@ -4,7 +4,7 @@
     - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/Learn-html-javaScript">Learn-html-javaScript</a>
     </p>
     <p>
-    - 🌱 currently learning <strong>jQuery</strong>
+    - 🌱 currently learning <strong>SEO</strong>
     </p>
     <h3 align="center">Connect with me</h3>
     <p align="center">
