@@ -117,11 +117,6 @@
           alt="cypress"
         />
       </a>
-      <a href="https://www.vercel.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
-          alt="vercel"
-        />
       </a>
       <a href="https://www.npm.com" target="_blank" rel="noreferrer">
         <img
@@ -129,11 +124,6 @@
           alt="npm"
         />
       </a>
-      <a href="https://www.react-router.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
-          alt="react-router"
-        />
       </a>
       <a href="https://www.vscode.com" target="_blank" rel="noreferrer">
         <img
@@ -141,11 +131,6 @@
           alt="vscode"
         />
       </a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-          alt="figma"
-        />
       </a>
       <a href="https://www.w3schools.com/js/js_htmldom.asp" target="_blank" rel="noreferrer">
         <img
