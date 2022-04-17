@@ -63,11 +63,6 @@
           alt="nextjs"
         />
       </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-          alt="tailwind"
-        />
       </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
@@ -87,11 +82,6 @@
           alt="git"
         />
       </a>
-      <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white"
-          alt="graphql"
-        />
       </a>
       <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img
@@ -111,11 +101,6 @@
           alt="webpack"
         />
       </a>
-      <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-        <img
-          src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"
-          alt="cypress"
-        />
       </a>
       </a>
       <a href="https://www.npm.com" target="_blank" rel="noreferrer">
