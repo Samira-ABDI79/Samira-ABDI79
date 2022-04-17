@@ -57,11 +57,11 @@
           alt="react"
         />
       </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <!--  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
           alt="nextjs"
-        />
+        />-->
       </a>
       </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -123,10 +123,10 @@
           alt="framer"
         />
       </a>
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <!--  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img
           src="https://img.shields.io/badge/bootstrap-FFD43B?style=for-the-badge&logo=bootstrap&logoColor=darkgreen"
           alt="bootstrap"
         />
-      </a>
+      </a>-->
     </p>
