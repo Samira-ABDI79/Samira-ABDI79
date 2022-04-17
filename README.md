@@ -149,7 +149,7 @@
       </a>
       <a href="https://www.w3schools.com/js/js_htmldom.asp" target="_blank" rel="noreferrer">
         <img
-          src="https://img.shields.io/badge/Dom-black?style=for-the-badge&logo=framer&logoColor=blue%22
+          src="https://img.shields.io/badge/Dom-black?style=for-the-badge&logo=framer&logoColor=blue"
           alt="framer"
         />
       </a>
