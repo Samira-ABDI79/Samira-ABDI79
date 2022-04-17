@@ -155,7 +155,7 @@
       </a>
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://img.shields.io/badge/bootstrap-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
+          src="https://img.shields.io/badge/bootstrap-FFD43B?style=for-the-badge&logo=bootstrap&logoColor=darkgreen"
           alt="bootstrap"
         />
       </a>
