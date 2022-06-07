@@ -1,7 +1,7 @@
   <h1 align="center">hello world I'm Smira ABDI</h1>
     <h3 align="center">A JavaScript developer from Iran</h3><br />
     <p>
-    - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/Learn-html-javaScript">Learn-html-javaScript</a>
+    - 🔭 currently working on <a href="https://github.com/Samira-ABDI79/how-to-create">how-to-create</a>
     </p>
     <p>
     - 🌱 currently learning <strong>SEO</strong>
