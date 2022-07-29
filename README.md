@@ -11,16 +11,16 @@ Coding is flying for me.
 
 <div>
   <a href="https://github.com/Samira-ABDI79/Samira-ABDI79">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataslaw&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samira-ABDI79&count_private=true&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sSamira-ABDI79&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript, Bootstrap, Materialize, Flutter, Java, Kotlin, Swift, Objetive-c.
+  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript
 </p>
 
 <p align="left">
-  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Xcode and Git.
+  💼 <strong>Tools:</strong> Visual Studio Code and Git.
 </p>
 
 Emails:
