@@ -5,7 +5,7 @@
 <p align="left"> 
 I am <strong>Samira Abdi</strong>
 Someone who loves to learn and teach
-And coding is not a normal activity for me
+<br /> coding is not a normal activity for me
 Coding is flying for me.
 </p>
 <br /><br />
