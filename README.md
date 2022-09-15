@@ -16,7 +16,7 @@ Coding is flying for me.
 </div>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript
+  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript ,<br /> react , npm , webpack , redux , typescript , material
 </p>
 
 <p align="left">
