@@ -9,12 +9,6 @@ Someone who loves to learn and teach
 Coding is flying for me.
 </p>
 <br /><br />
-<div>
-  <a href="https://github.com/Samira-ABDI79/Samira-ABDI79">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samira-ABDI79&count_private=true&theme=cobalt&show_icons=true"/>
-<br /> <br />
-</div>
-
 <p align="left">
   🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript ,<br /> react , npm , webpack , redux , typescript , material
 </p>
