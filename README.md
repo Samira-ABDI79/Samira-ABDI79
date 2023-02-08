@@ -19,9 +19,6 @@ Coding is flying for me.
   🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript ,<br /> react , npm , webpack , redux , typescript , material
 </p>
 
-<p align="left">
-  💼 <strong>Tools:</strong> Visual Studio Code and Git.
-</p>
 
 Emails:
 - samiraabdiurmia@gmail.com
