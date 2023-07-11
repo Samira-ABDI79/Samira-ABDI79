@@ -10,7 +10,7 @@ Coding is flying for me.
 </p>
 <br /><br />
 <p align="left">
-  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript ,<br /> react , npm , webpack , tailwindcss , typescript , material
+  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript ,TtpeScript ,MUI5 , Tailwind Css ,<br /> React ,redux-tolkit,Next js npm , webpack ,
 </p>
 
 
