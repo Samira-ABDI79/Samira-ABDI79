@@ -4,9 +4,9 @@
 
 <p align="left"> 
 I am <strong>Samira Abdi</strong>
-Someone who loves to learn and teach
-<br /> coding is not a normal activity for me
-Coding is flying for me.
+ I love programming because it allows me 
+<br /> 
+to play a role in updating the world.
 </p>
 <br /><br />
 <p align="left">
